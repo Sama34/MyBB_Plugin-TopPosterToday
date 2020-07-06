@@ -1,3 +1,12 @@
+Sharing or distributing the plugin without the author's permission is prohibited 
+if the author states such upon share or unshare.
+
+The author reserves the right to deny permission to users that disregard thier 
+request and in this case of the defined user below the author makes a notice: 
+that Omar G. is not permitted any usage of the plugin in any capacity from here henceforth
+
+
+
 * Top Posters Today
 *
 * Authors: GiboneKPL & Vintagedaddyo 
